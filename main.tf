@@ -1,7 +1,4 @@
 provider "aws" {
-  # region     =  "us-east-1"
-  # access_key =  "AKIAY3KQCTSGXIG2WWNJ"
-  # secret_key =  "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"
 }
 
 # resource "aws_instance" "web-starter" {
